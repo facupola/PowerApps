@@ -7,8 +7,8 @@ Convert an image into an app
 
 ## Screenshots
 ![make-reservation-wireframe](images/images/01-make-reservation-wireframe.jpg "make-reservation-wireframe")
-![02-add-new-reservation](images/images/02-add-new-reservation.jpg "02-add-new-reservation")
-![03-reservation-list](images/images/03-reservation-list.jpg "03-reservation-list")
+![02-add-new-reservation](images/02-add-new-reservation.jpg "02-add-new-reservation")
+![03-reservation-list](images/03-reservation-list.jpg "03-reservation-list")
 
 ## Requirements
 You will need to Create a Dataverse Table to work with the app
