@@ -6,11 +6,8 @@ Convert an image into an app
 -Upload an image of an app or form and we’ll convert it into an app
 
 ## Screenshots
-<<<<<<< HEAD
+
 ![make-reservation-wireframe](images/01-make-reservation-wireframe.jpg "make-reservation-wireframe")
-=======
-![make-reservation-wireframe](images/images/01-make-reservation-wireframe.jpg "make-reservation-wireframe")
->>>>>>> 3a3987062f7c8fbc641da4d5a3f5ee1dbdc24c87
 ![02-add-new-reservation](images/02-add-new-reservation.jpg "02-add-new-reservation")
 ![03-reservation-list](images/03-reservation-list.jpg "03-reservation-list")
 
