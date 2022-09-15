@@ -5,9 +5,11 @@ Example with Microsoft PowerApps [Power Apps](https://powerapps.microsoft.com/)
 Convert an image into an app
 -Upload an image of an app or form and we’ll convert it into an app
 
-## Screenshots
 ![make-reservation-wireframe](images/01-make-reservation-wireframe.png "make-reservation-wireframe")
+
+## APP Screenshots
 ![02-add-new-reservation](images/02-add-new-reservation.jpg "02-add-new-reservation")
+
 ![03-reservation-list](images/03-reservation-list.jpg "03-reservation-list")
 
 ## Requirements
