@@ -2,17 +2,16 @@
 
 Example with Microsoft PowerApps [Power Apps](https://powerapps.microsoft.com/)
 
-Create an APP with EXCEL in 5 Steps | PowerApps Tutorial 2022
+Convert an image into an app
 -Upload an image of an app or form and we’ll convert it into an app
 
 ![make-reservation-wireframe](images/01-make-reservation-wireframe.png "make-reservation-wireframe")
 
 ## APP Screenshots
+![02-add-new-reservation](images/02-add-new-reservation.jpg "02-add-new-reservation")
+
+![03-reservation-list](images/03-reservation-list.jpg "03-reservation-list")
 
 ## Requirements
-You will need to download the Excel file & upload into your One Drive.
-Then, Create the connection with the App
-
-More information
-[EN] https://www.hakoit.com/en/create-an-app-with-excel-in-5-steps-powerapps-tutorial/
-[ES] https://www.hakoit.com/crear-una-app-con-excel-en-5-pasos-powerapps-tutorial-2022/
+You will need to Create a Dataverse Table to work with the app
+![Dataverse-table](images/04-dataverse-table.jpg "04-dataverse-table")
