@@ -6,8 +6,6 @@ Datasource: Excel
 Create an APP with EXCEL in 5 Steps | PowerApps Tutorial 2022
 -Upload an image of an app or form and we’ll convert it into an app
 
-![make-reservation-wireframe](images/01-make-reservation-wireframe.png "make-reservation-wireframe")
-
 ## APP Screenshots
 
 ## Requirements
