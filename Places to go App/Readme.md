@@ -6,6 +6,8 @@ Datasource: Excel
 Create an APP with EXCEL in 5 Steps | PowerApps Tutorial 2022
 
 ## APP Screenshots
+![HakoIT-make-an-app-with-excel-01](images/HakoIT-make-an-app-with-excel-01.jpg")
+
 
 ## Requirements
 You will need to download the Excel file & upload into your One Drive.
