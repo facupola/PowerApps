@@ -3,7 +3,7 @@
 App Created with Microsoft PowerApps [Power Apps](https://powerapps.microsoft.com/)
 Datasource: Excel
 
-Create an APP with EXCEL in 5 Steps | PowerApps Tutorial 2022
+Create an APP with EXCEL in 5 Steps | PowerApps Tutorial
 
 
 ## APP Screenshots
@@ -28,5 +28,5 @@ Edit the App and Create a new connection (Data Source Excel).
 
 ## More information
 [EN] https://www.hakoit.com/en/create-an-app-with-excel-in-5-steps-powerapps-tutorial/ <br/>
-[ES] https://www.hakoit.com/crear-una-app-con-excel-en-5-pasos-powerapps-tutorial-2022/
+[ES] https://www.hakoit.com/crear-una-app-con-excel-en-5-pasos-powerapps-tutorial/
 
